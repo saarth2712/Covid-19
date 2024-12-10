@@ -1,4 +1,4 @@
-# COVID-19 Data Analysis Project
+# COVID-19 
 
 ## Overview
 This project utilizes SQL to analyze COVID-19 data, focusing on deaths, cases, and vaccinations. The analysis explores trends, calculates key metrics, and identifies insights about the pandemic's impact globally, regionally, and by country.
